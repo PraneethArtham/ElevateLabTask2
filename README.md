@@ -2,7 +2,7 @@
 
 ##  Objective
 
-To **understand the dataset deeply** by:
+To understand the dataset deeply by:
 - Summarizing the data
 - Visualizing distributions
 - Spotting relationships between variables
@@ -10,7 +10,7 @@ To **understand the dataset deeply** by:
 
 
 
-## 🔍 What I Explored
+##  What I Explored
 
 | Step | What I Did | Why |
 |------|------------|-----|
@@ -24,7 +24,7 @@ To **understand the dataset deeply** by:
 
 ---
 
-## ❓ Interview Questions – and My Answers
+## Interview Questions – and My Answers
 
 | 1. What's the purpose of EDA? 
       To explore, understand, and prepare data before modeling 
